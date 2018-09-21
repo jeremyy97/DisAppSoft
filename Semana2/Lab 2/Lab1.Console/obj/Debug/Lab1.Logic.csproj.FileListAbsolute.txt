@@ -1,0 +1,6 @@
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lab1.Console\bin\Debug\Lab1.Console.dll
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lab1.Console\bin\Debug\Lab1.Console.pdb
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lab1.Console\obj\Debug\Lab1.Logic.csprojResolveAssemblyReference.cache
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lab1.Console\obj\Debug\Lab1.Logic.csproj.CoreCompileInputs.cache
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lab1.Console\obj\Debug\Lab1.Console.dll
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lab1.Console\obj\Debug\Lab1.Console.pdb
