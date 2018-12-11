@@ -1,0 +1,11 @@
+C:\Users\ulacit\Documents\GitHub\DisAppSoft\Taller1\Taller_1\Taller_1\obj\Debug\netcoreapp2.0\Taller_1.csprojResolveAssemblyReference.cache
+C:\Users\ulacit\Documents\GitHub\DisAppSoft\Taller1\Taller_1\Taller_1\obj\Debug\netcoreapp2.0\Taller_1.csproj.CoreCompileInputs.cache
+C:\Users\ulacit\Documents\GitHub\DisAppSoft\Taller1\Taller_1\Taller_1\obj\Debug\netcoreapp2.0\Taller_1.AssemblyInfoInputs.cache
+C:\Users\ulacit\Documents\GitHub\DisAppSoft\Taller1\Taller_1\Taller_1\obj\Debug\netcoreapp2.0\Taller_1.AssemblyInfo.cs
+C:\Users\ulacit\Documents\GitHub\DisAppSoft\Taller1\Taller_1\Taller_1\bin\Debug\netcoreapp2.0\Taller_1.deps.json
+C:\Users\ulacit\Documents\GitHub\DisAppSoft\Taller1\Taller_1\Taller_1\bin\Debug\netcoreapp2.0\Taller_1.runtimeconfig.json
+C:\Users\ulacit\Documents\GitHub\DisAppSoft\Taller1\Taller_1\Taller_1\bin\Debug\netcoreapp2.0\Taller_1.runtimeconfig.dev.json
+C:\Users\ulacit\Documents\GitHub\DisAppSoft\Taller1\Taller_1\Taller_1\bin\Debug\netcoreapp2.0\Taller_1.dll
+C:\Users\ulacit\Documents\GitHub\DisAppSoft\Taller1\Taller_1\Taller_1\bin\Debug\netcoreapp2.0\Taller_1.pdb
+C:\Users\ulacit\Documents\GitHub\DisAppSoft\Taller1\Taller_1\Taller_1\obj\Debug\netcoreapp2.0\Taller_1.dll
+C:\Users\ulacit\Documents\GitHub\DisAppSoft\Taller1\Taller_1\Taller_1\obj\Debug\netcoreapp2.0\Taller_1.pdb
